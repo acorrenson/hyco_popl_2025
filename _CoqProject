@@ -1,0 +1,11 @@
+-R ./theories hyco
+./theories/transitions.v
+./theories/tracerel.v
+./theories/G2.v
+./theories/G3.v
+./theories/imp_io.v
+./theories/hyco_inv.v
+./theories/hyco.v
+./theories/hyco_inv_examples.v
+./theories/hyco_examples.v
+
